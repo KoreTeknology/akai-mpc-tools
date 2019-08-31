@@ -105,3 +105,4 @@ venv.bak/
 
 .DS_Store
 folder.py
+error_logs.txt
